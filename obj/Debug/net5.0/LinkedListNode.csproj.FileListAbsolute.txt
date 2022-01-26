@@ -1,0 +1,16 @@
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\LinkedListNode.exe
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\LinkedListNode.deps.json
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\LinkedListNode.runtimeconfig.json
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\LinkedListNode.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\LinkedListNode.dll
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\ref\LinkedListNode.dll
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\bin\Debug\net5.0\LinkedListNode.pdb
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.AssemblyInfo.cs
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.dll
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\ref\LinkedListNode.dll
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.pdb
+C:\Users\jerem\source\repos\LinkedListNode\LinkedListNode\obj\Debug\net5.0\LinkedListNode.genruntimeconfig.cache
